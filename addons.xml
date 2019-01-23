@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="skin.arctic.zephyr.mod"
-    version="0.0.5"
+<addon
+    id="skin.arctic.zephyr.mod"
+    version="0.0.6"
     name="Arctic: Zephyr Leia-MOD"
     provider-name="jurialmunkey, beatmasterrs">
     <requires>
@@ -20,7 +21,7 @@
     <extension
     point="xbmc.gui.skin"
     defaultthemename="Textures.xbt"
-    debugging="true"
+    debugging="false"
     effectslowdown="1">
         <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
     </extension>
