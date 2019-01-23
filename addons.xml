@@ -6,9 +6,9 @@
 	</requires>
 	<extension point="xbmc.addon.repository" name="beatmasterrs's Repo">
 		<dir minversion="17.9.0">
-			<info compressed="true">https://github.com/beatmasterRS/repository.beatmasterrs/raw/master/addons.xml</info>
-			<checksum>https://github.com/beatmasterRS/repository.beatmasterrs/raw/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/beatmasterRS/repository.beatmasterrs/raw/master/</datadir>
+			<info compressed="true">https://github.com/beatmasterRS/repository.beatmasterRS/raw/master/addons.xml</info>
+			<checksum>https://github.com/beatmasterRS/repository.beatmasterRS/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/beatmasterRS/repository.beatmasterRS/raw/master/</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
