@@ -2,7 +2,7 @@
 <addons>
 <addon
     id="skin.arctic.zephyr.mod"
-    version="0.9.93"
+    version="0.9.94"
     name="Arctic: Zephyr Leia-MOD"
     provider-name="jurialmunkey, beatmasterrs">
     <requires>
